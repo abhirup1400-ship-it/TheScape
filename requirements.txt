@@ -1,0 +1,2 @@
+# No external dependencies required.
+# The Escape uses only the Python standard library (os, sys, base64, hashlib, codecs, time).
