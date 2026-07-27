@@ -16,7 +16,7 @@ No installation, no dependencies — just Python 3 and your terminal.
 Clone the repo and run the game:
 
 ```bash
-git clone https://github.com/<your-username>/the-escape-game.git
+git clone https://github.com/abhirup1400-ship-it/TheScape.git
 cd TheScape
 python3 main.py 
 ```
