@@ -17,8 +17,8 @@ Clone the repo and run the game:
 
 ```bash
 git clone https://github.com/<your-username>/the-escape-game.git
-cd the-escape-game
-python3 the_escape.py
+cd TheScape
+python3 main.py 
 ```
 
 That's it. No `pip install` required — the game only uses Python's standard library.
